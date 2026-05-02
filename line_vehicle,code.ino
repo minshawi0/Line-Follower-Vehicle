@@ -1,6 +1,6 @@
 // name : omar ashraf mohamed salama 
 // name : Mohmmed ahmed mohmmed abdulhakim 
-
+// omar was here
 #define IR_SENSOR_RIGHT_l A1
 #define IR_SENSOR_RIGHT_c A0
 #define IR_SENSOR_RIGHT_r A2           //DEFINE THE THE RIGHT AND THE LEFT SENSOR 
